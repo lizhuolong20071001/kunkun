@@ -1,6 +1,9 @@
+/*
+Power
+ */
 package com.example.test;
 
-import androidx.appcompat.app.AppCompatActivity;
+import  androidx.appcompat.app.AppCompatActivity;
 
 import android.annotation.SuppressLint;
 import android.content.Intent;
